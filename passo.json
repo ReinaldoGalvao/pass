@@ -1,0 +1,15 @@
+{
+  "admin": {
+    "senha": "1234",
+    "maquinas": [
+      "86d9d103fb039b547e9986e979863b5b93355f63ac94068f8d52c9b2733d5787",
+      "ID_DA_MAQUINA_2"
+    ]
+  },
+  "usuario2": {
+    "senha": "outrasenha",
+    "maquinas": "ID_DA_MAQUINA_UNICA"
+  }
+}
+
+
